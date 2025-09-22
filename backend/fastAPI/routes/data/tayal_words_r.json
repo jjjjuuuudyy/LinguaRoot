@@ -1,0 +1,3176 @@
+{
+  "262091": {
+    "word_tayal": "raga'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/raga'_{1}.mp3",
+    "word_fre": "★★★★(60)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "三葉楓",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "baq msbah qu abaw na raga' hiya'.",
+            "ex_ch": "楓樹的葉片是會變化的。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/raga'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "539785": {
+    "word_tayal": "r'agay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/r'agay_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "幫忙",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "r'agay ta' cikay muruw tay syaw qu btunux qani ha.",
+            "ex_ch": "我們一起幫忙把這石頭推到旁邊。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/r'agay_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "593505": {
+    "word_tayal": "r'agiy",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112175896266",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "幫",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "r'agiy saku cikay, ini saku thuyay qutux hi lmiliq qhuniq qani.",
+            "ex_ch": "幫我一下，我沒辦法一個 人抬得起這木頭。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "ana su nyux mtqwah ga r'agiy saku cikay mutu qhuniq qaniy ha.",
+            "ex_ch": "雖然你很趕但先幫我把這些木頭堆好。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262072": {
+    "word_tayal": "rahaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rahaw_{1}.mp3",
+    "word_fre": "★★ (14)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "陷阱",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "ana cyux ciriq qu rahaw na squliq ga, ini' hmci magal.",
+            "ex_ch": "就算人們的陷阱有裝到獵物也不能隨意拿取。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rahaw_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262103": {
+    "word_tayal": "raka'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/raka'_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "廣口甕子",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "tkri na raka' qu cinmmyan qulih qasa!",
+            "ex_ch": "將魚醃肉放入甕子內！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/raka'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262108": {
+    "word_tayal": "ramat",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ramat_{1}.mp3",
+    "word_fre": "★★★★(256)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "菜",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "ima' tnahuk ramat qani? talagay kinblaq niqun!",
+            "ex_ch": "這道菜是誰煮的？真是好吃啊!",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ramat_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "ksobih squ ramat. ta blaq qnaniq su'.",
+            "ex_ch": "靠近菜淆，好方便你用餐。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ramat_{1}_@_1.2.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "吃菜",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "ramat ga! bali su' squliq.",
+            "ex_ch": "吃菜呀!你又不是別人。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ramat_{1}_@_2.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "菜餚",
+        "word_cate": "食物(非植物)",
+        "examples": [
+          {
+            "ex_tay": "stmwan cikah / cikay ni yaya / yaya' qu tnahuk nya / nya' ramat.",
+            "ex_ch": "媽媽放一點鹽在菜餚裡。",
+            "ex_tay_audio": null
+          }
+        ]
+      },
+      {
+        "word_ch": "蔬菜",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "262052": {
+    "word_tayal": "ramu'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ramu'_{1}.mp3",
+    "word_fre": "★★★★(73)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "血",
+        "word_cate": "名詞身體部位",
+        "examples": [
+          {
+            "ex_tay": "mita' ramu' qu yaya' lga, si kngta' kya la.",
+            "ex_ch": "母親一見到血就發作。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ramu'_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "qani ga ramu na bzyok / bzywak.",
+            "ex_ch": "這是豬血",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262086": {
+    "word_tayal": "rang",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rang_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "蘭花",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "ana cipuq phpah nya' qu rang hiya' ga, blaq balay sokan wah.",
+            "ex_ch": "雖然蘭花的花朵很小，但非常香。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rang_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262083": {
+    "word_tayal": "ranga'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ranga'_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "餵食",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "ranga' 'laqi' su'! ini' su' pongi cyux mngilis msina' nniqun ga?",
+            "ex_ch": "餵你的小孩，你沒聽到他在哭著要吃的東西嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ranga'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262099": {
+    "word_tayal": "Rangaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/Rangaw_{1}.mp3",
+    "word_fre": "★★★(21)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "男子名",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "Rangaw ga, baq balay kmal ke' na Amirika'.",
+            "ex_ch": "Rangaw呀，他很會說美語。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/Rangaw_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "停留；滯留",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "262077": {
+    "word_tayal": "rangay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rangay_{1}.mp3",
+    "word_fre": "★★★(29)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "陷阱",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "qmisan ga, blaq nya' musa' smi' rangay i Yupas.",
+            "ex_ch": "冬天時，Yupas很喜歡去設陷阱。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rangay_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "石壓式陷阱",
+        "word_cate": "狩獵",
+        "examples": [
+          {
+            "ex_tay": "wal smi' rangay rgyax qu mama' / mama.",
+            "ex_ch": "叔叔去山上放石壓式陷阱。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262075": {
+    "word_tayal": "rangi'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rangi'_{1}.mp3",
+    "word_fre": "★★★★(70)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "朋友",
+        "word_cate": "名詞人物、身分",
+        "examples": [
+          {
+            "ex_tay": "rangi' maku' sa mqwas saku' biru' na' qu Maray.",
+            "ex_ch": "Maray是我當學生的時候的朋友。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rangi'_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "cingay / pzyux balay / iyal? rrangi / rangi'? mu / mu' / maku'.",
+            "ex_ch": "我有很多朋友。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "593920": {
+    "word_tayal": "rangi pqwasan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112190022827",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "校友",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "262064": {
+    "word_tayal": "rapa'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rapa'_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "水牛",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "iyat saku' mnita' rapa' sa qalang ta'. kya ga, wiway mhibung ini' ga mtalah na kacing.",
+            "ex_ch": "我在部落沒有見過水牛，有也都是黃色或紅色的牛。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rapa'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262105": {
+    "word_tayal": "rapal",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rapal_{1}.mp3",
+    "word_fre": "★(9)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "腳印、腳掌",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "smural qu rapal qani la.",
+            "ex_ch": "這腳印已經舊了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rapal_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "腳掌",
+        "word_cate": "身體部位",
+        "examples": [
+          {
+            "ex_tay": "wal tqilisan qara' / qara qhoniq rapal sswe kneril.",
+            "ex_ch": "妹妹的腳掌被樹枝割傷。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262073": {
+    "word_tayal": "raral",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/raral_{1}.mp3",
+    "word_fre": "★★★★(44)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "以前",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "bnkis sraral hiya' ga mutu mksragi'.",
+            "ex_ch": "以前的祖先們，會穿戴護腳布。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/raral_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "久遠",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "262758": {
+    "word_tayal": "rasan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasan_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "來源：aras",
+    "defins": [
+      {
+        "word_ch": "帶回去、帶來",
+        "word_cate": "焦點：處所",
+        "examples": [
+          {
+            "ex_tay": "rasan nya' lelaqi' krryax qu gong qani ru wahan nha' hm_yapas lmngyaq.",
+            "ex_ch": "他常常帶小孩子們到這條河邊嬉戲玩耍及游泳。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasan_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262756": {
+    "word_tayal": "rasaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasaw_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "來源：aras",
+    "defins": [
+      {
+        "word_ch": "帶來、帶去",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rasaw su' patus maku' wah!",
+            "ex_ch": "別把我的槍帶走！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasaw_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "帶來",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "262759": {
+    "word_tayal": "rasi",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasi_{1}.mp3",
+    "word_fre": "★★★★(36)",
+    "word_str": "來源：aras",
+    "defins": [
+      {
+        "word_ch": "帶回去、帶來",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "iyat saku' mnwah Pinsbkan na'. rasi saku' uzi ma'?",
+            "ex_ch": "我沒去過Pinsbkan，可以帶我去嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasi_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262090": {
+    "word_tayal": "rasul",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasul_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "殘株芽",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "puqing qhniq ka tnutu' ga, mutu hbkgan na rasul la.",
+            "ex_ch": "砍過之後的樹幹，會長出樹芽。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasul_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262757": {
+    "word_tayal": "rasun",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasun_{1}.mp3",
+    "word_fre": "★★★★(152)",
+    "word_str": "來源：aras",
+    "defins": [
+      {
+        "word_ch": "帶回去、帶來",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rasun ni Hayung qu huzil qinyatan su'. pswal su' ga?",
+            "ex_ch": "Hayung要帶走你養的狗，你願意嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rasun_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "帶",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "rasun saku phgup ni yaya mu.",
+            "ex_ch": "媽媽帶我去看醫生。",
+            "ex_tay_audio": null
+          }
+        ]
+      },
+      {
+        "word_ch": "帶回去；帶來",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "hkutun rasun myan kska' ubu kwara.",
+            "ex_ch": "我們都搬回巢穴中。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262110": {
+    "word_tayal": "rawin",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rawin_{1}.mp3",
+    "word_fre": "★★★★(50)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "堂(表)兄弟、朋友",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "mhway iyal qutux rawin maku' qani.",
+            "ex_ch": "我這位表兄很慷慨。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rawin_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "堂、表兄弟姐妹；同儕",
+        "word_cate": "親屬稱謂",
+        "examples": [
+          {
+            "ex_tay": "pira / pira' qu rawin / msrawin / su / su' pira' qu rnrawin qsuyan mlikuy ru knayril?",
+            "ex_ch": "你有幾個堂、表兄弟姐妹？",
+            "ex_tay_audio": null
+          }
+        ]
+      },
+      {
+        "word_ch": "兄弟姊妹",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "262101": {
+    "word_tayal": "rayta'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rayta'_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "打火機",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "ini' pbengi rayta' qu 'laqi' hiya'.",
+            "ex_ch": "不要讓小孩拿打火機。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rayta'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "527852": {
+    "word_tayal": "rayxyokay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rayxyokay _{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "代表會(鄉  鎮 / 市 / 區  民代表會)",
+        "word_cate": "建築",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "305423": {
+    "word_tayal": "razyo",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/razyo_{1}.mp3",
+    "word_fre": "★★ (13)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "收音機",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "aw ga ql'ay su' razyo hiya' lwah.",
+            "ex_ch": "可以，但別關收音機。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/razyo_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262113": {
+    "word_tayal": "rehay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rehay_{1}.mp3",
+    "word_fre": "★★★★(77)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "禮拜、彌撒",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "musa' su rehay kira'?",
+            "ex_ch": "你今天要去禮拜嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rehay_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "ryax hngawan lga musa' ta' rehay sa kyukay.",
+            "ex_ch": "星期天我們到教會禮拜。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rehay_{1}_@_1.2.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "星期...",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "598477": {
+    "word_tayal": "Rehay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/Rehay_{1}.mp3",
+    "word_fre": "★(1)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "禮拜",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "musa sami Rehay Kyokay.",
+            "ex_ch": "我們要去教會做禮拜。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/Rehay_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "mpitu ryax qutux Rehay.",
+            "ex_ch": "一個禮拜有七天。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/Rehay_{1}_@_1.2.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262106": {
+    "word_tayal": "rema'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rema'_{1}.mp3",
+    "word_fre": "★★★★(42)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "早已、已經",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "wayal rema' spuhan?ni yata' la.",
+            "ex_ch": "阿姨早就掃過了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rema'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262087": {
+    "word_tayal": "ren_ga'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ren_ga'_{1}.mp3",
+    "word_fre": "★★★★(42)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "磚塊",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "cyux pbkuw ren_ga' i Kumay.",
+            "ex_ch": "Kumay在排磚塊。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ren_ga'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "593919": {
+    "word_tayal": "Ren_gokok",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112203586889",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "聯合國",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "305424": {
+    "word_tayal": "rengki'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rengki'_{1}.mp3",
+    "word_fre": "★★ (14)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "電/電線",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "nyux ini' htuw na' qu gasil na rengki' qani. 'say rmuruw cikay. phtuw tunux nya' ru teta' maku' baqun skluw.",
+            "ex_ch": "(在做水電工作的時候)這電線還沒出來，去把它推一推讓它出現，這樣我才能把它拉出來。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rengki'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "528066": {
+    "word_tayal": "rengki ka rrasun",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rengki ka rrasun_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "行動電源(手機使用的)",
+        "word_cate": "其他",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "528102": {
+    "word_tayal": "rengki otobay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rengki otobay _{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "電動機車",
+        "word_cate": "其他",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262062": {
+    "word_tayal": "renki'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/renki'_{1}.mp3",
+    "word_fre": "★★★★(121)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "電",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "wal mskyut renki' nya' la.",
+            "ex_ch": "停電了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/renki'_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "電燈",
+        "word_cate": "物品(不含食品)",
+        "examples": [
+          {
+            "ex_tay": "myup sa 'byan qu hiya, gmyah squ renki' / rengki' pilaw.",
+            "ex_ch": "她走到房間，打開電燈。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262071": {
+    "word_tayal": "renramay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/renramay_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "炸藥",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "sbka' nha' btunux qu renramay hiya'.",
+            "ex_ch": "炸藥是炸石頭用的",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/renramay_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262085": {
+    "word_tayal": "rento",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rento_{1}.mp3",
+    "word_fre": "★★★★(36)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "電燈",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "ini' syax rento qasa.",
+            "ex_ch": "那電燈不亮。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rento_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262088": {
+    "word_tayal": "renwa'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/renwa'_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "電話",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "pung renwa' qasa!",
+            "ex_ch": "聽電話！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/renwa'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262084": {
+    "word_tayal": "repuw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/repuw_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "酒醩",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "agal repuw qasa ru niqaw ta'.",
+            "ex_ch": "把那些酒醩拿來，我們來吃。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/repuw_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262089": {
+    "word_tayal": "reramat",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/reramat_{1}.mp3",
+    "word_fre": "★★★(30)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "菜園",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "giway k'man kwara' qu reramat nya'.",
+            "ex_ch": "他的菜園都是草。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/reramat_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265636": {
+    "word_tayal": "reruma'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/reruma'_{1}.mp3",
+    "word_fre": "★★★★(31)",
+    "word_str": "來源：ruma'",
+    "defins": [
+      {
+        "word_ch": "竹園",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "qani hya' ga, reruma' ni Miquy.",
+            "ex_ch": "這是Miquy的竹園。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/reruma'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262082": {
+    "word_tayal": "rey",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rey_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "喉嚨",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "nyux mxal rey maku'.",
+            "ex_ch": "我的喉嚨在痛。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rey_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265639": {
+    "word_tayal": "rgan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rgan_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ruruw",
+    "defins": [
+      {
+        "word_ch": "推",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rgan cikay bakit qani ha! nyux qmihut wwahan.",
+            "ex_ch": "把水桶推開! 它擋住通道。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rgan_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265598": {
+    "word_tayal": "rgrgyax",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rgrgyax_{1}.mp3",
+    "word_fre": "★★★★(68)",
+    "word_str": "來源：rgyax",
+    "defins": [
+      {
+        "word_ch": "群山",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "giway rgrgyax qu qalang myan.",
+            "ex_ch": "我們的故鄉四處環山。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rgrgyax_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "崇山峻嶺",
+        "word_cate": "山川地理",
+        "examples": [
+          {
+            "ex_tay": "kya qutux rgrgyax nya / nya' sqasa.",
+            "ex_ch": "那裡有一處崇山峻嶺。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262102": {
+    "word_tayal": "rgyax",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rgyax_{1}.mp3",
+    "word_fre": "★★★★(705)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "山、山脊",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "cyux rgyax ngasal mu.",
+            "ex_ch": "我家在山上。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rgyax_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "min'apal i Yungay ki Banga' ma. ru wal qlupun rygax na qalang nha' lma.",
+            "ex_ch": "聽說Yungay跟Banga'行姦淫，後來他們被部落的人趕到山上去。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rgyax_{1}_@_1.2.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "山",
+        "word_cate": "時間",
+        "examples": [
+          {
+            "ex_tay": "cyux rgyax ngasal mu.",
+            "ex_ch": "我的家住在山上。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "wal mlata rgyax yaba mu.",
+            "ex_ch": "我的爸爸去山上狩獵。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "mnwah sami mita yutas maku rgyax.",
+            "ex_ch": "我們去山上探望祖父。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "abaw qhuniq rgyax ga, maki qu mtasiq, mtalah ru mhibung uzi.",
+            "ex_ch": "山坡上，有綠，有紅也有黃。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "aw, qalang myan ga pzyux rgyax nya.",
+            "ex_ch": "是的，我們的部落有很多山。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "kya rgyax qalang mamuw.",
+            "ex_ch": "你們的部落有山嗎？",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "cingay rgyax na Taywan.",
+            "ex_ch": "台灣有很多山。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "rgyax mtasaw na squliq Tayal ga Papak Waqa.",
+            "ex_ch": "泰雅族人的聖山是大霸尖山。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "spzyang wagiq rgyax na Taywan ga Tongkusabiq.",
+            "ex_ch": "台灣最高的山是玉山。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "cyux kska rgyax Bnka.",
+            "ex_ch": "在台北的山裡。",
+            "ex_tay_audio": null
+          }
+        ]
+      },
+      {
+        "word_ch": "山上",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "kya hmzinas smka na qu cyux maki qalang rgyax,",
+            "ex_ch": "大約有半數以上的原住民族人還住在部落，",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "265607": {
+    "word_tayal": "rhagan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhagan_{1}.mp3",
+    "word_fre": "★★ (19)",
+    "word_str": "來源：rhaw",
+    "defins": [
+      {
+        "word_ch": "磨(刀、鋸子等)",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "nyux ungat qu rhagan qani ru rhagan su' na nanu' la?",
+            "ex_ch": "沒有磨石子，你要用什麼磨？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhagan_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "磨石子",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "ksyugay ta' cikay rhagan su' ha ma?",
+            "ex_ch": "借一下你的磨石子好嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhagan_{1}_@_2.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265605": {
+    "word_tayal": "rhagay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhagay_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rhaw",
+    "defins": [
+      {
+        "word_ch": "磨(刀、鋸子等)",
+        "word_cate": "焦點：處所",
+        "examples": [
+          {
+            "ex_tay": "rhagay su' lalaw maku' lwah! rhagun maku' nanak.",
+            "ex_ch": "別磨我的番刀！我自己要磨。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhagay_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265606": {
+    "word_tayal": "rhagi",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhagi_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rhaw",
+    "defins": [
+      {
+        "word_ch": "磨(刀、鋸子等)",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "kmut iyal na' buli' maku' ru laxi rhagi kusa mama' Temu'.",
+            "ex_ch": "我的刀子還很鋒利，請Temu'叔叔不要磨。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhagi_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262109": {
+    "word_tayal": "rhaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhaw_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "磨(刀、鋸子等)",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "nyux ini' kut qu buli' maku' qani ru rhaw cikay!",
+            "ex_ch": "我的刀子不利，磨一下！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhaw_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "593506": {
+    "word_tayal": "rhiyal",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112223044702",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "土地",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "kahul babaw kayal mbiyaq mlaka kwali mwah kmyap nyux te rhiyal qu mqu.",
+            "ex_ch": "老鷹從天空飛下來捕抓在地上的蛇。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "blaq na rhiyal ga, balaq uziy qu kinbwayan na pinbahuw.",
+            "ex_ch": "好的土地，農作物的果實也會很好。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262068": {
+    "word_tayal": "rhkil",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhkil_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "糯米",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "mwah mcisal ngasal ta' kira' qu llpyung. ani stahuk cikay rhkil.",
+            "ex_ch": "我們的親友們今天會到家裡做客，為他們煮些糯米。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhkil_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262066": {
+    "word_tayal": "rhzyal",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhzyal_{1}.mp3",
+    "word_fre": "★★★★(322)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "土地",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "rhzyal qu nyux qmayat ita' ssquliq. iyat ita' ssquliq qu nyux qmayat rhzyal.",
+            "ex_ch": "是土地在養育我們人類，不是人類在養育土地。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rhzyal_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "地",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "maki rhzyal mami ru kwiy zik qhuniq ga.",
+            "ex_ch": "地上的飯粒和樹裡的蟲。",
+            "ex_tay_audio": null
+          }
+        ]
+      },
+      {
+        "word_ch": "地方",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "rrkan hya ga psrxun squ wagiq ru 'llaw ktan rhzyal,",
+            "ex_ch": "瞭望台通常是設在位高及視野廣闊之處，",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262069": {
+    "word_tayal": "rihaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rihaw_{1}.mp3",
+    "word_fre": "★(7)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "裂縫",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "krahu' iyal rihaw nya' qu slaq su' la. psluhi hazi' lwah.",
+            "ex_ch": "你的耕地的裂縫太大，可能會崩塌。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rihaw_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262057": {
+    "word_tayal": "rima'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rima'_{1}.mp3",
+    "word_fre": "★★ (14)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "先",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "wayal rema' spanga ni yaya' maku' qu trakis qasa?la.",
+            "ex_ch": "那小米老早就被我媽媽揹走了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rima'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "305425": {
+    "word_tayal": "rimung",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rimung_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "檸檬",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "pcilis cikay buq na rimung qu qulih qani ha. teta' blaq niqun.",
+            "ex_ch": "淋一些檸檬汁在這條魚身上，這樣才好吃。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rimung_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262097": {
+    "word_tayal": "Rimuy",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/Rimuy_{1}.mp3",
+    "word_fre": "★★★★(182)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "女子名",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "si psyaq krryax i Rimuy qasa.",
+            "ex_ch": "Rimuy天天帶著笑容。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/Rimuy_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "593981": {
+    "word_tayal": "ringan zyuwaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112230744702",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "案由",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "262098": {
+    "word_tayal": "ringpang",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ringpang_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "林班地",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "cingay balay qhuniq nya' qu ringpang hiya'.",
+            "ex_ch": "林班地很多樹木。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ringpang_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265604": {
+    "word_tayal": "rinhagan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rinhagan_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rhaw",
+    "defins": [
+      {
+        "word_ch": "磨(刀、鋸子等)",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rinhagan ni mama' Temu' kwara' qu hrhil, soki', ru pucing qani la.",
+            "ex_ch": "Temu'叔叔已經把這些鋸子，連刀和大山刀都磨好了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rinhagan_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "305426": {
+    "word_tayal": "rinpang",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rinpang_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "林班",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "hinlyan ni Tayax i Behuy mha hiya' qu wal tmutu' ruma' na rinpang.",
+            "ex_ch": "Tayax誣賴Behuyi說他砍林班地的竹子。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rinpang_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "527525": {
+    "word_tayal": "rinzi syokuing",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rinzi syokuing_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "兼職(人員)",
+        "word_cate": "人物、身分",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "527691": {
+    "word_tayal": "risi",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/risi _{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "律師",
+        "word_cate": "人物、身分",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "305427": {
+    "word_tayal": "rknus",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rknus_{1}.mp3",
+    "word_fre": "★★ (14)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "香樟",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "spzyang balay na baruh qu qhuniq qani hiya'. iyat rknus na lluhay ktan.",
+            "ex_ch": "這是特別的香樟，不是一般常見的樟樹。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rknus_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265585": {
+    "word_tayal": "rmanga'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmanga'_{1}.mp3",
+    "word_fre": "★★★(24)",
+    "word_str": "來源：ranga'",
+    "defins": [
+      {
+        "word_ch": "餵食",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "ungat sqani i Ciwas. wal rmanga' yutas nya'.",
+            "ex_ch": "Ciwas不在這裡，她去餵他的公公。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmanga'_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "cyux rmanga' ramat i Yayut.",
+            "ex_ch": "Yayut在菜園施肥。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmanga'_{1}_@_1.2.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262080": {
+    "word_tayal": "rmayas",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmayas_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "急流",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "ka pwah sa rmayas qani!",
+            "ex_ch": "別往這急流方向走!",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmayas_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262054": {
+    "word_tayal": "rme'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rme'_{1}.mp3",
+    "word_fre": "★(7)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "馬",
+        "word_cate": "名詞動物(含昆蟲)",
+        "examples": [
+          {
+            "ex_tay": "sraral ga, ini' ta' qayat rme' ita' Tayal hiya'.",
+            "ex_ch": "以前我們泰雅族不養馬。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rme'_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "ungat qu rme' / rme ta ita hiya.",
+            "ex_ch": "我們沒有馬。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "265601": {
+    "word_tayal": "rmhaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmhaw_{1}.mp3",
+    "word_fre": "★★★★(32)",
+    "word_str": "來源：rhaw",
+    "defins": [
+      {
+        "word_ch": "磨(刀、鋸子等)",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "cyux rmhaw hrhil nya' i mama' Temu'.",
+            "ex_ch": "Temu'叔叔在磨鋸子。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmhaw_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "(將器具)磨利",
+        "word_cate": "肢體動作",
+        "examples": [
+          {
+            "ex_tay": "nyux rmhaw buli' nya' yaba'.",
+            "ex_ch": "爸爸正在磨利他的刀。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "265619": {
+    "word_tayal": "rmngil",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmngil_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "來源：rngil2",
+    "defins": [
+      {
+        "word_ch": "黏起來",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "cyux rmngil brbar i yaya' maku'.",
+            "ex_ch": "我的媽媽在黏紙張。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmngil_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265624": {
+    "word_tayal": "rmos",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmos_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "cyux rmos qlcing i Lesa'.",
+            "ex_ch": "Lesa'在刨木板。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmos_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "305428": {
+    "error": "抓取失敗"
+  },
+  "305429": {
+    "error": "抓取失敗"
+  },
+  "265640": {
+    "word_tayal": "rmuruw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmuruw_{1}.mp3",
+    "word_fre": "★★★★(36)",
+    "word_str": "來源：ruruw",
+    "defins": [
+      {
+        "word_ch": "推",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "cyux rmuruw turuy i Isak ki Saka'",
+            "ex_ch": "Isak跟Saka'在推車。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmuruw_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "hopa' rngu' nya' qu patus qani. matus lga mutu rmuruw squliq ay.",
+            "ex_ch": "這把槍的擊發力很強，只要一擊發，它的後座力會推人。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmuruw_{1}_@_1.2.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "545245": {
+    "word_tayal": "rmuruw kinzzik pinqwasan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmuruw kinzzik pinqwasan_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "博士",
+        "word_cate": "人物、身分",
+        "examples": []
+      }
+    ]
+  },
+  "265644": {
+    "word_tayal": "rmwang",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmwang_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rwang",
+    "defins": [
+      {
+        "word_ch": "烘乾",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "cyux rmwang tqinu i mama' Akat.",
+            "ex_ch": "Akat叔叔在烘香菇。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rmwang_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262067": {
+    "word_tayal": "rnamuw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnamuw_{1}.mp3",
+    "word_fre": "★★★(28)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "屋頂",
+        "word_cate": "名詞建築",
+        "examples": [
+          {
+            "ex_tay": "ana si kblazi qu rnamuw ta' qani. iyat pkblaq. si smagi na kapa' la!",
+            "ex_ch": "我們的屋頂即使再修理也不好，乾脆用塑膠袋鋪蓋！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnamuw_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "kya qutux ngyaw cyux te / tay babaw na rnamuw.",
+            "ex_ch": "屋頂上有一隻貓。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "265580": {
+    "word_tayal": "rnanga'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnanga'_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "來源：ranga'",
+    "defins": [
+      {
+        "word_ch": "餵食",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "rnanga' su' qqzimux qasa lga? mha ni sqyun su' rmanga' lmga, ini' kblaq m'rkyas qu bway nya' lma.",
+            "ex_ch": "水蜜桃施肥了沒有？聽說如果你逾期施肥的話，它們的菓子會長不好。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnanga'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265582": {
+    "word_tayal": "rngan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngan_{1}.mp3",
+    "word_fre": "★★ (14)",
+    "word_str": "來源：ranga'",
+    "defins": [
+      {
+        "word_ch": "餵食",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "nyux maku' rngan 'laqi' qani gi nyux m'yangi' ru ini' qbaq maniq nanak.",
+            "ex_ch": "我在餵這位小孩子，因為他生了病，不會自己進食。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngan_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265583": {
+    "word_tayal": "rngay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngay_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ranga'",
+    "defins": [
+      {
+        "word_ch": "餵食",
+        "word_cate": "焦點：處所",
+        "examples": [
+          {
+            "ex_tay": "rngay nha' iyu' qu lelaqi' qalang ta' ki!",
+            "ex_ch": "他們別餵食毒品給我們部落的小孩!",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngay_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265584": {
+    "word_tayal": "rngi",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngi_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ranga'",
+    "defins": [
+      {
+        "word_ch": "餵食",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "Tayax: rngi saku' cikay mami' ha! Ciwas: bali ungat kakay su' ru qba' su'. qaniq nanak!",
+            "ex_ch": "Tayax: 餵我吃飯！Ciwas: 你又不是沒手沒腳，你自己吃！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngi_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262060": {
+    "word_tayal": "rngil1",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngil1_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "黏",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "ini' rngil qu brbar qani wah.",
+            "ex_ch": "紙張黏不住。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngil1_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262095": {
+    "word_tayal": "rngil2",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngil2_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "黏起來",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "bali su' nyux hbku'. laxi rngil iyal ga!",
+            "ex_ch": "你年紀不小了，不要太黏我！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngil2_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265581": {
+    "word_tayal": "rngon",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngon_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ranga'",
+    "defins": [
+      {
+        "word_ch": "餵食",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rngon su' knwan qapu' su' la? si sulu mkuku' kwara' qu bway nya' la.",
+            "ex_ch": "你的甜柿什麼時候要施肥？它們的菓子似乎要萎縮了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngon_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262096": {
+    "word_tayal": "rngsung",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngsung_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "空心草",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "rngsung hiya' ga, mbling qsahuy nya' ru ki'an m_yan tngru' na ruma' qu qbuci' na yaya' nya'.",
+            "ex_ch": "空心草是空心的，莖梗一節一節的像竹子一樣。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngsung_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262078": {
+    "word_tayal": "rngu'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngu'_{1}.mp3",
+    "word_fre": "★★★★(66)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "力量",
+        "word_cate": "抽象名詞",
+        "examples": [
+          {
+            "ex_tay": "hopa' balay rngu' na mlikuy hya'.",
+            "ex_ch": "男人的力氣真強。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rngu'_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "hopa / hopa' balay rngu' / rngu nya / nya' mlikuy qani.",
+            "ex_ch": "這個男人力量很大。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "265602": {
+    "word_tayal": "rnhaw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnhaw_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rhaw",
+    "defins": [
+      {
+        "word_ch": "磨(刀、鋸子等)",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "rnhaw ni Llyu qu pazih qani la.",
+            "ex_ch": "這小鍬是Llyu磨好的。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnhaw_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265620": {
+    "word_tayal": "rnngil",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnngil_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rngil2",
+    "defins": [
+      {
+        "word_ch": "黏起來",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "rnngil ni Ciwas qu brbar na qnryang qani.",
+            "ex_ch": "這牆壁上的紙張是Mage'黏的。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnngil_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265625": {
+    "word_tayal": "rnos",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnos_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "rnos maku' qlcing qasa la. laxi rosi la!",
+            "ex_ch": "那木板我刨過了，不要再刨！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnos_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265628": {
+    "word_tayal": "rnosan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnosan_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rnosan ni Yukan qu qlcing qani la.",
+            "ex_ch": "Yukan已經把這塊木板刨好了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnosan_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262104": {
+    "word_tayal": "rnquy",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnquy_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "意外身亡",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "mha ni rnquy hiya' lga, ini' nha' rasi ngasal.",
+            "ex_ch": "若死於非命時，他們就不帶回家。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnquy_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265641": {
+    "word_tayal": "rnuruw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnuruw_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "來源：ruruw",
+    "defins": [
+      {
+        "word_ch": "推",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "rnuruw saku' ni Payas.",
+            "ex_ch": "Payas推我。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnuruw_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "rnuruw maku' i Payas.",
+            "ex_ch": "我推Payas。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnuruw_{1}_@_1.2.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265645": {
+    "word_tayal": "rnwang",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnwang_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rwang",
+    "defins": [
+      {
+        "word_ch": "烘乾",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "rnwang maku' lukus nya' la.",
+            "ex_ch": "我已經把它的衣服烘乾了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rnwang_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262055": {
+    "word_tayal": "rom",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rom_{1}.mp3",
+    "word_fre": "★★★★(80)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "針",
+        "word_cate": "名詞物品(不含食品)",
+        "examples": [
+          {
+            "ex_tay": "sqisi cikay na rom qu galiq na lukus laqi' su'!",
+            "ex_ch": "你用針縫一下你孩子衣服上的破洞！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rom_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "khi' / khi balay rom qani.",
+            "ex_ch": "這個針非常細。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "rom qruzyux ru qthuy ga helaw mhkangi cikay, qutux ryax ga minpusal payat hmwiru.",
+            "ex_ch": "較長又粗的針跑得比較快一點，一天繞二十四圈。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "rom r'tung ga mknhway mhkangi, qutux ryax ga minsazing hmwiru nanak.",
+            "ex_ch": "短針跑得慢，一天只繞兩圈。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "cyugal rom nya qu spung tmucing.",
+            "ex_ch": "鐘錶有三支針。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "527882": {
+    "word_tayal": "rom qmipit",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rom qmipit_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "迴紋針(夾)",
+        "word_cate": "傳統文化與習俗",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262100": {
+    "word_tayal": "romul",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/romul_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "低著頭",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "romul tunux su'!",
+            "ex_ch": "把頭低下來！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/romul_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262081": {
+    "word_tayal": "ron",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ron_{1}.mp3",
+    "word_fre": "★★★(24)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "屬於",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "ima'?ron ruma' qani hya'?",
+            "ex_ch": "這竹子是誰的？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ron_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "305430": {
+    "word_tayal": "rorayba'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rorayba'_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "螺絲起子",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "cyux sbugah ni Tazil bhray na renki' qu rorayba' maku'.",
+            "ex_ch": "(在修理電器) Tazil在用我的螺絲起子在解電線。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rorayba'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262059": {
+    "word_tayal": "ros",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ros_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "ini' ros qu rros maku'. aki musa' mbazi qutux giqas.",
+            "ex_ch": "我的刨刀不利，我想去買新的。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ros_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265626": {
+    "word_tayal": "rosan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosan_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "wal rosan ni Atung qu qparung qani la.",
+            "ex_ch": "Atung已經把這塊杉木刨好了。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosan_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265629": {
+    "word_tayal": "rosay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosay_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "焦點：處所",
+        "examples": [
+          {
+            "ex_tay": "rosay ta' cikay qlcing na sakaw su'. teta' blaq 'byan.",
+            "ex_ch": "我們把你床的木板刨一下，這樣才好睡。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosay_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265630": {
+    "word_tayal": "rosi",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosi_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rosi cikay thikan ka kinbalay na qlcing qasa ha.",
+            "ex_ch": "把那張木椅刨一刨。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosi_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265627": {
+    "word_tayal": "rosun",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosun_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rosun su' knwan qlcing qani lga?",
+            "ex_ch": "這塊木板你什麼時候要刨？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rosun_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262063": {
+    "word_tayal": "roziq",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/roziq_{1}.mp3",
+    "word_fre": "★★★★(217)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "眼睛",
+        "word_cate": "名詞身體部位",
+        "examples": [
+          {
+            "ex_tay": "cyux msbuq roziq nya' la.",
+            "ex_ch": "她在掉眼淚。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/roziq_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "qani ga roziq?",
+            "ex_ch": "這是眼睛嗎？",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "betunux balay roziq ni yaya maku.",
+            "ex_ch": "媽媽的眼睛很漂亮。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262061": {
+    "word_tayal": "rpus",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rpus_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "噴",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "laxi rpus tuyuq ma isu'!",
+            "ex_ch": "你呀，你不要噴口水好不好！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rpus_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262051": {
+    "word_tayal": "rqyas",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rqyas_{1}.mp3",
+    "word_fre": "★★★★(292)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "臉",
+        "word_cate": "名詞身體部位",
+        "examples": [
+          {
+            "ex_tay": "rqyas ni yaki' maku' ga. iyat maku' bahun mungi' krryax.",
+            "ex_ch": "我祖母的臉龐，我永遠無法忘懷。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rqyas_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "qasa ga rqyas.",
+            "ex_ch": "那是臉。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "naga saku cikay ha, hala saku mima rqyas ru qba ha.",
+            "ex_ch": "等我一下，我去洗臉和洗手。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262094": {
+    "word_tayal": "r'ra'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/r'ra'_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "瞭望台",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "usa' lama' r'ra' qasa isu' hiya' ha!",
+            "ex_ch": "你先去那裡的瞭望台！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/r'ra'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265575": {
+    "word_tayal": "rramat",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rramat_{1}.mp3",
+    "word_fre": "★★★★(67)",
+    "word_str": "來源：ramat",
+    "defins": [
+      {
+        "word_ch": "很多菜",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "ima' pinuya' qu rramat qani hya'?",
+            "ex_ch": "這是誰種的菜？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rramat_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "305431": {
+    "word_tayal": "rrgyax",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrgyax_{1}.mp3",
+    "word_fre": "★★ (15)",
+    "word_str": "來源：rgyax",
+    "defins": [
+      {
+        "word_ch": "群山",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "qani ga, srxan nha' tmnga' squ rrgyax.",
+            "ex_ch": "他們在這裡站著眺望遠山。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrgyax_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265610": {
+    "word_tayal": "rrhzyal",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrhzyal_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "來源：rhzyal",
+    "defins": [
+      {
+        "word_ch": "很多土地",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "cingay balay rrhzyal na yutas myan.",
+            "ex_ch": "我們祖父擁有很多田地。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrhzyal_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265618": {
+    "word_tayal": "rrngil",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrngil_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "來源：rngil1",
+    "defins": [
+      {
+        "word_ch": "黏貼物(膠水、糨糊、強力膠...)",
+        "word_cate": "焦點：主事",
+        "examples": [
+          {
+            "ex_tay": "ikay rrngil qasa ha! srngil maku' yamil maku'.",
+            "ex_ch": "把強力膠拿來！我要黏我的鞋子用的。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrngil_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "膠水",
+        "word_cate": "山川地理",
+        "examples": []
+      }
+    ]
+  },
+  "262053": {
+    "word_tayal": "rroq",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rroq_{1}.mp3",
+    "word_fre": "★★★★(36)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "矮",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "rroq balay bnazi su' thikan qani. baha baqun mtama' lpi!",
+            "ex_ch": "你買的椅子太矮了，(我)坐不下呀！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rroq_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "kya qu wagiq cikay, kya qu rroq cikay uzi.",
+            "ex_ch": "有的比較高，有的比較矮。",
+            "ex_tay_audio": null
+          }
+        ]
+      },
+      {
+        "word_ch": "矮(身高)",
+        "word_cate": "特徵",
+        "examples": [
+          {
+            "ex_tay": "rroq balay inrkyasan nya mkrakis qasa.",
+            "ex_ch": "她身高很矮。",
+            "ex_tay_audio": null
+          }
+        ]
+      },
+      {
+        "word_ch": "低",
+        "word_cate": "身體部位",
+        "examples": []
+      },
+      {
+        "word_ch": "矮的",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "wagiq qu Watan, rroq qu Yupas hiya.",
+            "ex_ch": "Watan很高，Yupas很矮。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "265631": {
+    "word_tayal": "rros",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rros_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "來源：ros",
+    "defins": [
+      {
+        "word_ch": "刨刀",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "rros ima' qani?",
+            "ex_ch": "這是誰的刨磨機？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rros_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265635": {
+    "word_tayal": "rrsnat",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrsnat_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rsnat",
+    "defins": [
+      {
+        "word_ch": "很多岩壁",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "rgyax qani ga, cingay balay rrsnat nya'.",
+            "ex_ch": "這座山有很多懸崖峭壁。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrsnat_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265637": {
+    "word_tayal": "rruma'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rruma'_{1}.mp3",
+    "word_fre": "★★★★(85)",
+    "word_str": "來源：ruma'",
+    "defins": [
+      {
+        "word_ch": "很多竹子",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "tnutu' nha' sazing balay kawas qu rruma' qani ru iyat baqun mbaziy na'.",
+            "ex_ch": "這些竹子兩年前才砍過，還不能買。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rruma'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "305646": {
+    "word_tayal": "rrusa'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrusa'_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "一雙；一對",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "musa' rrusa' hi' mwah hmakut qaya' qani.",
+            "ex_ch": "可能需要二人來抬這物品。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rrusa'_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "一雙",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "kya rrusa qway babaw hanray.",
+            "ex_ch": "桌子上有二雙筷子。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262074": {
+    "word_tayal": "rsnat",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rsnat_{1}.mp3",
+    "word_fre": "★★ (19)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "岩壁",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "wiway rsnat qu rhzyal sqani.",
+            "ex_ch": "這裡的土地都是岩壁。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rsnat_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "527320": {
+    "word_tayal": "rsnat bsilung",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rsnat bsilung_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "岩岸",
+        "word_cate": "山川地理",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "264102": {
+    "word_tayal": "r'tung",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/r'tung_{1}.mp3",
+    "word_fre": "★★★★(55)",
+    "word_str": "來源：kr'tung",
+    "defins": [
+      {
+        "word_ch": "短",
+        "word_cate": "焦點：主事特徵",
+        "examples": [
+          {
+            "ex_tay": "r'tung balay gasil qani. usa' mbaziy qruzyux cikay!",
+            "ex_ch": "這繩子太短，去買長一點的！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/r'tung_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "r'tung kwara tluling qba maku / maku'.",
+            "ex_ch": "我的手指都很短。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262093": {
+    "error": "抓取失敗"
+  },
+  "531857": {
+    "word_tayal": "ruku",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112353425171",
+    "word_fre": "★(5)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "雨傘",
+        "word_cate": "物品(不含食品)",
+        "examples": [
+          {
+            "ex_tay": "qasa'/qasa ga ruku'/ruku ni yutas.",
+            "ex_ch": "那是爺爺的雨傘。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "qasa' / qasa ga ruku' / ruku ni yutas.",
+            "ex_ch": "那是爺爺的雨傘。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "mqwalax la! cyux su maras ruku ga.",
+            "ex_ch": "下雨了！你有帶雨傘嗎？",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "aw, nyux saku maras ruku!",
+            "ex_ch": "有，我有帶雨傘！",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "yaqenu ruku su isu.",
+            "ex_ch": "你的雨傘是哪一把？",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "yaqani ruku maku kun!",
+            "ex_ch": "這一把是我的雨傘！",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262070": {
+    "word_tayal": "ruku'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruku'_{1}.mp3",
+    "word_fre": "★★ (15)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "雨傘",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "mqwalax la! nyux su' maras ruku' ga?",
+            "ex_ch": "下雨了！你帶雨傘了嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruku'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262065": {
+    "word_tayal": "ruma'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruma'_{1}.mp3",
+    "word_fre": "★★★★(714)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "桂竹",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "cyux kwara' ruma' rgyax. ana su' suqun tmutu' ga, iyat nbah mskongat.",
+            "ex_ch": "山上竹子很多，就算你通通砍掉也不會滅絕。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruma'_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "竹子",
+        "word_cate": "植物",
+        "examples": [
+          {
+            "ex_tay": "mspat ruma' / ruma cyux maki qmayah.",
+            "ex_ch": "田裡有八根竹子。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262058": {
+    "word_tayal": "ruruw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruruw_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "推",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "ruruw cikay thikan qasa ha!",
+            "ex_ch": "推一下那張椅子！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruruw_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262056": {
+    "word_tayal": "rusa'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rusa'_{1}.mp3",
+    "word_fre": "★(9)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "二",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "rusa' hi' na' qu nyux ini' tehuk. n_gon ta' na' ga?",
+            "ex_ch": "還有兩位沒到。還要繼續等嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rusa'_{1}_@_1.1.mp3"
+          }
+        ]
+      },
+      {
+        "word_ch": "陷獵",
+        "word_cate": "生活作息",
+        "examples": [
+          {
+            "ex_tay": "mnwah smi' mrusa' / rusa' rgyax shira' / hera' lhngan qu qbsuyan mlikuy.",
+            "ex_ch": "哥哥昨天晚上去山上(設)陷(放)獵。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "545383": {
+    "word_tayal": "rusa'mhibung patas",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112361476734",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "雙黃線",
+        "word_cate": "交通",
+        "examples": []
+      }
+    ]
+  },
+  "531868": {
+    "word_tayal": "r'usuw",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042112362215797",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "重(重量)",
+        "word_cate": "特徵",
+        "examples": [
+          {
+            "ex_tay": "r'usuw balay qu hanray/lanlan qani.",
+            "ex_ch": "這個桌子很重。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "r'usuw balay qu hanray / lanlan qani.",
+            "ex_ch": "這個桌子很重。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262079": {
+    "word_tayal": "ruyu'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruyu'_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "耕地",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "hgci' iyal qutux ruyu' qani.",
+            "ex_ch": "這塊耕地很寬。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ruyu'_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262112": {
+    "word_tayal": "rwa",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwa_{1}.mp3",
+    "word_fre": "★★★★(32)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "啦、嗎〔語尾助詞〕",
+        "word_cate": "",
+        "examples": [
+          {
+            "ex_tay": "lukus qani ga, naras su' rwa?",
+            "ex_ch": "這衣服是你帶來的嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwa_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262076": {
+    "word_tayal": "rwang",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwang_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "烘乾",
+        "word_cate": "動詞",
+        "examples": [
+          {
+            "ex_tay": "nyux mlhngan iyal la. laxi rwang lukus ru usa' m'abi' la!",
+            "ex_ch": "已經很晚了，不要烘衣服去睡覺！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwang_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265647": {
+    "word_tayal": "rwangan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangan_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "來源：rwang",
+    "defins": [
+      {
+        "word_ch": "烘乾",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "nanu' cyux nya' rwangan?",
+            "ex_ch": "他在烘什麼？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangan_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265648": {
+    "word_tayal": "rwangay",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangay_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rwang",
+    "defins": [
+      {
+        "word_ch": "烘乾",
+        "word_cate": "焦點：處所",
+        "examples": [
+          {
+            "ex_tay": "rwangay ta' cikay kakay ta'.",
+            "ex_ch": "我們把腳烘乾。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangay_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265649": {
+    "word_tayal": "rwangi",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangi_{1}.mp3",
+    "word_fre": "★★ (18)",
+    "word_str": "來源：rwang",
+    "defins": [
+      {
+        "word_ch": "烘乾",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rwangi qba' su'!",
+            "ex_ch": "把手烘一烘 (取暖)！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangi_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "265646": {
+    "word_tayal": "rwangun",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangun_{1}.mp3",
+    "word_fre": "★(6)",
+    "word_str": "來源：rwang",
+    "defins": [
+      {
+        "word_ch": "烘乾",
+        "word_cate": "焦點：受事",
+        "examples": [
+          {
+            "ex_tay": "rwangun su' na' lukus su'?",
+            "ex_ch": "你還要烘你的衣服嗎？",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/rwangun_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "262111": {
+    "error": "抓取失敗"
+  },
+  "531870": {
+    "word_tayal": "ryax hintgan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110444969721",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "生日",
+        "word_cate": "時間",
+        "examples": [
+          {
+            "ex_tay": "ryax na hintgan/inbyaqan?maku/maku' soni/sawni'.",
+            "ex_ch": "今天是我的生日。",
+            "ex_tay_audio": null
+          },
+          {
+            "ex_tay": "ryax na hintgan / inbyaqan?maku / maku' soni / sawni'.",
+            "ex_ch": "今天是我的生日。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "531869": {
+    "word_tayal": "ryax hngawan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110445841594",
+    "word_fre": "★(3)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "星期日",
+        "word_cate": "時間",
+        "examples": [
+          {
+            "ex_tay": "ryax hngawan ga, musa sami rehay kyokay",
+            "ex_ch": "星期日我要去教會禮拜",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "545887": {
+    "word_tayal": "ryax kmagaw hnway",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110450872844",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "清明節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545053": {
+    "word_tayal": "ryax snkwan",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryax snkwan_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "保存期限",
+        "word_cate": "抽象名詞",
+        "examples": []
+      }
+    ]
+  },
+  "545875": {
+    "word_tayal": "ryax sqqas bes",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110452546282",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "情人節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545923": {
+    "word_tayal": "ryax sqqas cinringan mtqalang",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110453485344",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "國慶日",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545941": {
+    "word_tayal": "ryax sqqas Gencyumincuk",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110454954094",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "原住民族日",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545929": {
+    "word_tayal": "ryax sqqas kurismas",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110460311906",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "聖誕節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545911": {
+    "word_tayal": "ryax sqqas mtumaw b_yacing",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110461608782",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "中秋節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545935": {
+    "word_tayal": "ryax sqqas Pslkotas",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110462600969",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "(各族)歲時祭儀日",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545905": {
+    "word_tayal": "ryax sqqas psumul",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110463594719",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "端午節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545917": {
+    "word_tayal": "ryax sqqas sinsiy",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110464641594",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "教師節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545899": {
+    "word_tayal": "ryax sqqas yaba'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042110465596282",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "父親節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545893": {
+    "word_tayal": "ryax sqqas yaya'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042111032900327",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "母親節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "545881": {
+    "word_tayal": "ryax sqqas yaya'ki 'laqi'",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042111033867515",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "婦幼節",
+        "word_cate": "傳統文化與習俗",
+        "examples": []
+      }
+    ]
+  },
+  "593890": {
+    "word_tayal": "Ryugak",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/captcha.mp3?2025042111034825328",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "留學",
+        "word_cate": "",
+        "examples": []
+      }
+    ]
+  },
+  "527781": {
+    "word_tayal": "ryugakose",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryugakose_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "留學生",
+        "word_cate": "人物、身分",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": "",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262107": {
+    "word_tayal": "ryuhing",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryuhing_{1}.mp3",
+    "word_fre": "★★ (14)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "山蘇",
+        "word_cate": "名詞植物",
+        "examples": [
+          {
+            "ex_tay": "pksos cikay toyu' na ryuhing qasa ru niqaw ta'!",
+            "ex_ch": "炒一些山蘇的嫩葉來吃！",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryuhing_{1}_@_1.1.mp3"
+          },
+          {
+            "ex_tay": "'san kmyut ni yaya' maku' qu toyu' na ryuhing ru stahuk sami nya'.",
+            "ex_ch": "母親去埰山蘇的嫩葉煮給我吃。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryuhing_{1}_@_1.2.mp3"
+          },
+          {
+            "ex_tay": "ksos saku' / saku qutux ramat ryuhing.",
+            "ex_ch": "我炒了一道山蘇菜。",
+            "ex_tay_audio": null
+          }
+        ]
+      }
+    ]
+  },
+  "262092": {
+    "word_tayal": "ryuk",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryuk_{1}.mp3",
+    "word_fre": "★★ (12)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "青剛櫟",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "pzyux qu gluw na ryuk qhuniq. kya kruma' ga, maki' te rgyax. kya kruma' ga, maki' te hugal.",
+            "ex_ch": "青剛櫟種類很多，有的在高山，有的在都市。",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryuk_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  "544909": {
+    "word_tayal": "ryulong ttman",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/ryulong ttman_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "纜車",
+        "word_cate": "生活作息",
+        "examples": []
+      }
+    ]
+  }
+}

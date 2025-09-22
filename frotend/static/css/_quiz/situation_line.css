@@ -1,0 +1,20 @@
+.situation-line-container {
+  background-color: #fff9f9;
+  border-radius: 1.25rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-family: "Noto Sans TC", sans-serif;
+  color: #9B1B30;
+}
+
+.situation-line-title {
+  font-size: 28px;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.situation-line-chart-wrapper {
+  width: 100%;
+  height: 320px;
+}

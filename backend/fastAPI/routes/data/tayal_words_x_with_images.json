@@ -1,0 +1,60 @@
+{
+  "262630": {
+    "word_tayal": "xiryo",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/xiryo_{1}.mp3",
+    "word_fre": "★★ (15)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "肥料",
+        "word_cate": "名詞",
+        "examples": [
+          {
+            "ex_tay": "usa' mbaziy cikay xiryo ha!",
+            "ex_ch": "去買一些肥料!",
+            "ex_tay_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/xiryo_{1}_@_1.1.mp3"
+          }
+        ]
+      }
+    ],
+    "image_url": "https://thaka.bing.com/th/id/OIP.nMVHDKl0IZffESsWs6ysrAHaE8?w=266&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+  },
+  "528054": {
+    "word_tayal": "xupeci",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/xupeci_{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "護貝機(上膜)",
+        "word_cate": "其他",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": ""
+          }
+        ]
+      }
+    ],
+    "image_url": "https://th.bing.com/th/id/OIP.Mt1oWNH6GrM1QiPE5C1_fwHaGv?w=199&h=181&c=7&r=0&o=7&pid=1.7&rm=3"
+  },
+  "527864": {
+    "word_tayal": "xure",
+    "word_audio": "https://e-dictionary.ilrdf.org.tw/MultiMedia/audio/tay/36/xure _{1}.mp3",
+    "word_fre": "★(0)",
+    "word_str": "詞根",
+    "defins": [
+      {
+        "word_ch": "毛筆",
+        "word_cate": "傳統文化與習俗",
+        "examples": [
+          {
+            "ex_tay": "",
+            "ex_ch": ""
+          }
+        ]
+      }
+    ],
+    "image_url": "https://th.bing.com/th/id/OIP.e9PVV3H0EMJ2nVGvAue_hQHaEK?w=322&h=181&c=7&r=0&o=7&pid=1.7&rm=3"
+  }
+}

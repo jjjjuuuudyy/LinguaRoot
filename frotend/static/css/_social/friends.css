@@ -1,0 +1,98 @@
+.social-sidebar {
+    padding: 16px;
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    width: 95%;
+}
+
+.social-section-title {
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #333;
+    gap: 5px
+}
+
+.social-section-title .icon {
+    margin-right: 8px;
+    color: #2563eb;
+}
+
+.friends-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.friend-item {
+    display: flex;
+    align-items: center;
+    padding: 8px 10px;
+    border-radius: 10px;
+    transition: background 0.2s;
+    cursor: pointer;
+}
+
+.friend-item:hover {
+    background: #f3f4f6;
+}
+
+.friend-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 12px;
+    object-fit: cover;
+    border: 2px solid darkgray;
+}
+
+.friend-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.friend-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #111;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+}
+
+.friend-level {
+    font-size: 0.8rem;
+    color: #666;
+}
+
+.online-dot {
+    width: 15px;
+    height: 15px;
+    background: #22c55e;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -20px;
+    left: -25px;
+}
+
+@media (max-width: 1200px) {
+    .social-sidebar {
+        position: static;
+    }
+}
+
+@media (max-width: 768px) {
+    .community-nav {
+        gap: 8px;
+    }
+
+    .nav-btn {
+        padding: 8px 12px;
+        font-size: 0.85rem;
+    }
+}

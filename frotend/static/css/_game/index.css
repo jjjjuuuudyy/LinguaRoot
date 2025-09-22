@@ -1,0 +1,55 @@
+@media (max-width: 768px) {
+    .game-background {
+        width: 90%;
+    }
+}
+
+body {
+    background-color: transparent;
+    height: 100%;
+    margin: 0;
+}
+
+.background {
+    place-items: center;
+}
+
+.game-title {
+    text-align: center;
+    font-family: Comic Sans MS, DFKai-SB;
+    /* Comic Sans MS(漫畫感) 、 Papyrus(古老感 (雲端伺服器看不出來QQ)) */
+}
+
+.game-background {
+    background-color: #FFF5F5;
+    width: 60%;
+    border-radius: 10px;
+}
+
+/* 左上角花 */
+.background::before {
+    content: "";
+    position: absolute;
+    top: 100px;
+    left: -90px;
+    width: 150px;
+    height: 150px;
+    background: url(/frontend/static/assets/flower.png) no-repeat;
+    background-size: contain;
+    z-index: 1;
+    transform: rotate(79deg);
+}
+
+/* 右下角花 */
+.background::after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    right: -20px;
+    width: 100px;
+    height: 100px;
+    background: url(/frontend/static/assets/flower.png) no-repeat;
+    background-size: contain;
+    z-index: 1;
+    transform: rotate(296deg);
+}

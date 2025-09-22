@@ -1,0 +1,16 @@
+.link-wrapper {
+    margin-top: 12px;
+    padding-top: 5px;
+}
+
+.link-button {
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 14px;
+}

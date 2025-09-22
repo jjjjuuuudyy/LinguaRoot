@@ -1,0 +1,18 @@
+/* .register-page {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: black;
+    gap: 30px;
+}
+
+.image {
+    max-width: 30%;
+    height: auto;
+    object-fit: contain;
+    margin-top: 20vh;
+} */

@@ -1,0 +1,24 @@
+.situation-radar-container {
+  background-color: #fff9f9;
+  border-radius: 1.25rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  width: 100%;
+  max-width: 480px;
+  box-sizing: border-box;
+  font-family: "Noto Sans TC", sans-serif;
+  color: #6b4c3b;
+}
+
+.situation-radar-title {
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  color: #9B1B30;
+  margin-bottom: 1.5rem;
+}
+
+.radar-axis-tick {
+  fill: #4b5563;
+  font-size: 13px;
+}

@@ -1,0 +1,218 @@
+.main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.community-nav {
+    display: flex;
+    gap: 10px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 12px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.nav-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 10px;
+    border: none;
+    border-radius: 8px;
+    background: transparent;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: all 0.2s;
+    color: #636e72;
+}
+
+.nav-btn:hover {
+    background: #f1f2f6;
+}
+
+.nav-btn.active {
+    background: #9B1B30;
+    color: #fff;
+}
+
+.post-composer {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.composer-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #e8c39e;
+}
+
+.composer-input {
+    width: 100%;
+    height: 40px;
+    border: none;
+    resize: none;
+    padding: 8px;
+    border-radius: 50px;
+    background: #f8f9fa;
+    font-size: 0.95rem;
+    font-weight: 600;
+    outline: none;
+}
+
+.composer-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.composer-options {
+    display: flex;
+    gap: 10px;
+}
+
+.option-btn {
+    border: none;
+    background: transparent;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+    transition: 0.2s;
+}
+
+.option-btn svg {
+    padding-right: 5px;
+}
+
+.option-btn:hover {
+    border-radius: 10px;
+    background-color: #f0f0f0;
+}
+
+.post-btn {
+    background: #0984e3;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 14px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.post-btn:hover {
+    background: #0769b4;
+}
+
+.posts-feed {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.post {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.post-header {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.post-avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: #74b9ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.post-user-info h4 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.post-meta {
+    font-size: 0.8rem;
+    color: #636e72;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.tribe-badge {
+    background: #ffeaa7;
+    padding: 2px 6px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.post-content {
+    margin: 12px 0;
+}
+
+.post-text {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 8px;
+}
+
+.post-tayal {
+    background: #f1f2f6;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #2d3436;
+}
+
+/* 操作按鈕 */
+.post-actions {
+    display: flex;
+    gap: 12px;
+    margin-top: 8px;
+}
+
+.action-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    border: none;
+    background: transparent;
+    font-size: 0.9rem;
+    color: #636e72;
+    cursor: pointer;
+    padding: 6px 10px;
+    border-radius: 6px;
+    transition: 0.2s;
+}
+
+.action-btn:hover {
+    background: #f1f2f6;
+    color: #0984e3;
+}
