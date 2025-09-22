@@ -36,3 +36,5 @@ media/
 
 # run project
 *.bat
+
+node_modules/
