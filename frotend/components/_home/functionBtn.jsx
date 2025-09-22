@@ -1,7 +1,7 @@
 import "../../static/css/_home/functionBtn.css"
-import quizBtn from "../../static/assets/_home/btn1.webp"
-import cameraBtn from "../../static/assets/_home/btn2.webp"
-import gameBtn from "../../static/assets/_home/btn3.webp"
+import quizBtn from "../../static/assets/_home/Btn1.webp"
+import cameraBtn from "../../static/assets/_home/Btn2.webp"
+import gameBtn from "../../static/assets/_home/Btn3.webp"
 import { GripHorizontal } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
