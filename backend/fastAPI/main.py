@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .routes import crawler, vision ,dictionary
+from fastapi.routes import crawler, vision ,dictionary
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
