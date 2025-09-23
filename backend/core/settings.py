@@ -25,7 +25,11 @@ SECRET_KEY = "django-insecure-mqy*z9-jtpcs@$(p=^yb(@-#z^-&=qk!t$i9bx5kcxo1ax$_2o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "localhost"]
+ALLOWED_HOSTS = [
+    "127.0.0.1", 
+    "localhost",
+    'https://linguaroot-backend.onrender.com',
+]
 
 APPEND_SLASH = False
 
@@ -58,7 +62,11 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-CORS_ALLOWED_ORIGINS = ["http://127.0.0.1:8000"]
+CORS_ALLOWED_ORIGINS = [
+    "http://127.0.0.1:8000",
+    "https://react-app-34d4b.web.app/",
+    "https://react-app-34d4b.firebaseapp.com/"
+]
 # CSRF
 CSRF_TRUSTED_ORIGINS = [
     "http://127.0.0.1:8000",
@@ -68,6 +76,7 @@ CSRF_TRUSTED_ORIGINS = [
 DEFAULT_CHARSET = 'utf-8'
 
 CORS_ORIGIN_ALLOW_ALL = True  
+CORS_ALLOW_ALL_ORIGINS = False  # 生產環境設為 False
 
 ROOT_URLCONF = "core.urls"
 
